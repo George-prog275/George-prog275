@@ -1,0 +1,1 @@
+Hello there. My name is George Baraza. A Software Developer (Frontend React Developer) with a keen focus for building intuitive user interfaces (UIs) for optimized user experience (UX). I'm here to explore, collaborate and take part in building successful project deliveries that transform the world. Let's all join hands and take part in shaping the global tech space.
